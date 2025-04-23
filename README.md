@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taupik Pirdian</h1>
 <h3 align="center">Tech Enthusiast | Backend Developer (Golang, PHP) | Building Resilient Microservices and Optimizing API Performance</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taupikpirdian&show_icons=true&locale=en&layout=compact" alt="taupikpirdian" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taupikpirdian&" alt="taupikpirdian" style="width: 10%"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taupikpirdian&show_icons=true&locale=en&layout=compact" alt="taupikpirdian" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taupikpirdian&" alt="taupikpirdian"/>
+</div>
 
 ![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
 
