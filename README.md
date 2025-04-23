@@ -13,3 +13,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taupikpirdian&show_icons=true&locale=en&layout=compact" alt="taupikpirdian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taupikpirdian&" alt="taupikpirdian" /></p>
+
+![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
+
