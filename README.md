@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Taupik Pirdian</h1>
 <h3 align="center">Tech Enthusiast | Backend Developer (Golang, PHP) | Building Resilient Microservices and Optimizing API Performance</h3>
 
