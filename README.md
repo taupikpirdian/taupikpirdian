@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Taupik Pirdian</h1>
-<h3 align="center">Tech Enthusiast | Backend Developer (Golang, PHP) | Building Resilient Microservices and Optimizing API Performance</h3>
+<p align="left">Hi 👋, I’m Taupik Pirdian — just a tech enthusiast who enjoys building stuff as a backend developer from Indonesia. Feel free to take a look around my repos and see what I’ve been working on!</p>
 
-<h3 align="left">Training and Evaluating:</h3>
+<h3 align="left">My Stat Leet Code:</h3>
 
 ![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
 
