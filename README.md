@@ -6,7 +6,7 @@
 
 <h3 align="left">My LeetCode Stats:</h3>
 
-![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
+![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=heatmap&radius=5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
