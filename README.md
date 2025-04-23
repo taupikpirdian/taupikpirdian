@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taupik Pirdian</h1>
 <h3 align="center">Tech Enthusiast | Backend Developer (Golang, PHP) | Building Resilient Microservices and Optimizing API Performance</h3>
 
-<div style="align-items: center;">
-  ![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
-</div>
+<h3 align="left">Training and Evaluating:</h3>
+![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
