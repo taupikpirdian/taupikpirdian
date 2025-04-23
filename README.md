@@ -1,6 +1,10 @@
 <p align="left">Hi 👋, I’m Taupik Pirdian — just a tech enthusiast who enjoys building stuff as a backend developer from Indonesia. Feel free to take a look around my repos and see what I’ve been working on!</p>
 
-<h3 align="left">My Stat Leet Code:</h3>
+<h3 align="left">About Me:</h3>
+<h3 align="left">Skill:</h3>
+<h3 align="left">Project:</h3>
+
+<h3 align="left">My Stats Leet Code:</h3>
 
 ![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
 
