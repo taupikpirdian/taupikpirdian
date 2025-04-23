@@ -4,7 +4,7 @@
 <h3 align="left">Skill:</h3>
 <h3 align="left">Project:</h3>
 
-<h3 align="left">My Stats Leet Code:</h3>
+<h3 align="left">My LeetCode Stats:</h3>
 
 ![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=activity)
 
