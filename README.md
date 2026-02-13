@@ -7,7 +7,9 @@
   </picture>
 </a> -->
 
-<a href="https://www.leetcode.com/31fxoi4c4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="31fxoi4c4n" height="30" width="40" /></a>
+<h3 align="left">My LeetCode Stats:</h3>
+
+![](https://leetcard.jacoblin.cool/31fXoi4C4N?theme=dark&font=Ruda&ext=heatmap&radius=5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
